@@ -16,13 +16,3 @@ Skills:
    
 | <a href="https://github.com/zekunyan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zekunyan&show_icons=false&include_all_commits=true&theme=Gradient&hide_border=true" alt="Houjun Yuan's github stats" /></a> | <a href="https://github.com/zekunyan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekunyan&layout=compact&theme=Gradient&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-<a href="https://github.com/zekunyan/TTGTagCollectionView">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekunyan&repo=TTGTagCollectionView&theme=buefy" />
-</a>
-
-<a href="https://github.com/zekunyan/TTGSnackbar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekunyan&repo=TTGSnackbar&theme=buefy" />
-</a>
