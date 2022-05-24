@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋👋👋
 
-<!--
-**zekunyan/zekunyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Basic info:
+* :bowtie:I'm `Zekun Yan`, nickname `tutuge`, chinese name `燕泽堃`.
+* :smile:Mobile App expert developer at `Alibaba` HangZhou China.
+* :laughing:[Email: tutuge.zekunyan@gmail.com](mailto:tutuge.zekunyan@gmail.com)
+* :smirk:[Chinese Blog: 土土哥的Blog](http://tutuge.me/about)
+* :grimacing:[LinkedIn: zekunyan](https://www.linkedin.com/in/zekunyan/)
 
-Here are some ideas to get you started:
+Skills:
+* :star2:Good - iOS (Objective-C mainly), Flutter
+* :star:Medium - Android, Java, C++
+* :sparkles:Little - Python, PHP, Web staff (HTML, JavaScript, CSS, React)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+   
+| <a href="https://github.com/zekunyan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zekunyan&show_icons=false&include_all_commits=true&theme=Gradient&hide_border=true" alt="Houjun Yuan's github stats" /></a> | <a href="https://github.com/zekunyan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekunyan&layout=compact&theme=Gradient&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+<a href="https://github.com/zekunyan/TTGTagCollectionView">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekunyan&repo=TTGTagCollectionView&theme=buefy" />
+</a>
+
+<a href="https://github.com/zekunyan/TTGSnackbar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekunyan&repo=TTGSnackbar&theme=buefy" />
+</a>
